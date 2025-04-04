@@ -76,4 +76,4 @@ async def game(ctx, opponent: discord.User):
         await ctx.respond(f"{opponent.mention} فاز في اللعبة!")
 
 # بدء البوت
-bot.run('YOUR_BOT_TOKEN')
+bot.run('MTM1Nzc2NzMwNzgyNDMzMjkyMA.GZ8mcJ.vHNE1W6t4VVljM8hwBo7NPpGx2Li9PdzZK4ne4')
